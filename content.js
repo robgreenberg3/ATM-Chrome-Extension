@@ -1,40 +1,40 @@
-// content.js
+ // content.js
 
 
-alert("You were doing so well, being so studious! Don't fucking do this!")
-alert("Please, I know you don't want to fucking get off topic.")
+alert("You were doing so well, being so studious! Don't do this!")
+alert("Please, I know you don't want to get off topic.")
 
-var a = prompt("Are you fucking positive you need a study break right now? I think you are just being a lazy fuck.")
+var a = prompt("Are you positive you need a study break right now? I think you are just being lazy and trying to procrastinate.")
 if (a.toLowerCase() == "yes")
 {
-	var b = prompt("Wow, so you are pretty fucking serious about this, right?")
+	var b = prompt("Wow, so you are pretty serious about this, right?")
 	if (b.toLowerCase() == "yes")
 	{
-		var c = prompt("You're being a dumbass because you have real work to do, are you sure this is worth your time?")
+		var c = prompt("You're being ignorant because you have real work to do, are you sure this is worth your time?")
 		if (c.toLowerCase() == "yes")
 		{
 
-			var d = prompt("I'll try one last time you fucking idiot, you really NEED a fucking break right now?")
+			var d = prompt("I'll try one last time, do you really NEED a study break right now?")
 			if (d.toLowerCase() == "yes")
 			{
 
 			}
 			else
 			{
-				alert("That's right, MOTHA FUCKAAAAAAAH")
+				alert("That's right, back to work.")
 				exit()
 			}
 
 		}
 		else
 		{
-			alert("Do your real work, ok?")
+			alert("Do your work, ok?")
 			exit()
 		}
 	}
 	else
 	{
-		alert("Angry Rob is always right, now get back to work, bitch")
+		alert("I am always right, now get back to work.")
 		exit()
 	}
 
@@ -52,7 +52,7 @@ setTimeout(myFunction, min);
 
 
 function myFunction() {
-  open("http://s2.quickmeme.com/img/a8/a882cc6dace90fd41f1ea6afba6b2fbfba18f230c23e9e8ec000789ec98ecacf.jpg", "_blank","toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=4000,height=4000")
+  open("http://data.whicdn.com/images/116062425/original.png", "_blank","toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=4000,height=4000")
 
 
 

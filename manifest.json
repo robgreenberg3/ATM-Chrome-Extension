@@ -18,7 +18,7 @@
    "content_scripts": [
   {
     "matches": [
-      "https://www.facebook.com/*", "http://www.facebook.com/*", "https://www.youtube.com/*", "http://www.youtube.com/*"
+      "https://www.facebook.com/*", "http://www.facebook.com/*", "https://www.youtube.com/*", "http://www.youtube.com/*", "https://www.pornhub.com/*", "http://www.pornhub.com/*", "https://www.netflix.com/*", "http://www.netflix.com/*", "https://www.twitter.com/*", "http://www.twitter.com/*", "https://www.reddit.com/*", "http://www.reddit.com/*"
     ],
     "js": ["content.js"]
   }
